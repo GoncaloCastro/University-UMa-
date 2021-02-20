@@ -1,2 +1,2 @@
-# University-UMa-
-Academic Projects - Bachelor's Degree in Informatics Engineering 
+# University (UMa)
+Academic Projects - Bachelor's Degree in Informatics Engineering
